@@ -1,3 +1,13 @@
 html {
-  font-family: 'Overpass', sans-serif;
+  font-family: Overpass, sans-serif;
+  color: #fff;
+  text-align: center;
+}
+
+a {
+  color: #fff;
+}
+
+.btn:hover {
+
 }
